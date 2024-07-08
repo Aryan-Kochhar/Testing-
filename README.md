@@ -1,5 +1,10 @@
-Hello 
-I am currently working on a session for GitHub.
-I am learning GitHub.
-I am looking to collaborate on open source projects.
-I am looking for help on GitHub.
+Hello 👋
+
+Ideas to get you started:
+
+🔭 I’m currently working on Git Version control
+🌱 I’m currently learning Full Stack, Git
+👯 I’m looking to collaborate on ML models
+🤔 I’m looking for help with Git
+💬 Ask me about nothing pls 🙏
+📫 How to reach me: sravannotshravan@outlook.com
